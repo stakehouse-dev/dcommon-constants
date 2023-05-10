@@ -1,0 +1,9 @@
+{
+  "name": "dcommon-constants",
+  "version": "1.0.0",
+  "description": "dCommon constants",
+  "main": "index.js",
+  "repository": "git@github.com:bsn-eng/dcommon-constants.git",
+  "author": "Blockswap Network",
+  "license": "MIT"
+}
